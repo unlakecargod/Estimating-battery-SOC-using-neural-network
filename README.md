@@ -17,7 +17,6 @@ Description: 这是我2024年的毕业设计项目，不小心把虚拟机删了
 文档下载来源：  
 https://www.ti.com.cn  
 训练数据下载来源：  
-https://calce.umd.edu/battery-data
-
-
-
+https://calce.umd.edu/battery-data  
+水会，毕业了没法下载，哪位好心人帮忙下载了发我邮箱^_^  
+https://ieeexplore.ieee.org/document/10762448
